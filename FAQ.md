@@ -341,16 +341,17 @@ Parity light client allows you to set a hardcoded block from which the light cli
 
 ### How to contribute to this wiki documentation?
 
-1. Visit https://github.com/paritytech/wiki repository and click on `Clone` in the top right hand corner.
-![Fork on github]()
+1. Visit https://github.com/paritytech/wiki repository and click on `Clone` in the top right hand corner.  
+![Fork on github](/images/wiki-contribute-0.jpg)
 1. The Wiki will be cloned in your own repo, you will be redirected to https://github.com/your_handle_name/wiki
 1. From here you can edit a page directly by clicking on a file and edit it.
-1. Once you are done editing, commit your changes in your master branch (from your repo)
+1. Once you are done editing, describe and commit your changes in your master branch  
+![Commit to master](/images/wiki-contribute-1.jpg)
 1. You will now be able to submit a Pull Request (PR) to the Parity Wiki repo.
-1. Click on `Pull Requests` and then on the button `New Pull Request`
-![Pull Request]()
-1. From here, you are able to select what branch of you repo should be merged to what branch on Parity Wiki repo
-![Merge into branch]()
+1. Click on `Pull Requests` and then on the `New Pull Request` button  
+![Pull Request](/images/wiki-contribute-2.jpg)
+1. From here, you are able to select what branch of you repo should be merged to what branch on Parity Wiki repo  
+![Merge into branch](/images/wiki-contribute-3.jpg)
 1. The default option will show to merge from your master branch to the Wiki master branch, which is fine.
 1. Double check the modifications you made and click on `Create a Pull Request` when you are sure.
 
