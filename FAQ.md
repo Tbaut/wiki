@@ -348,12 +348,13 @@ Parity light client allows you to set a hardcoded block from which the light cli
 1. Once you are done editing, describe and commit your changes in your master branch  
 ![Commit to master](/images/wiki-contribute-1.jpg)
 1. You will now be able to submit a Pull Request (PR) to the Parity Wiki repo.
-1. Click on `Pull Requests` and then on the `New Pull Request` button  
+1. Click on the `Pull Requests` and then on the `New Pull Request` button  
 ![Pull Request](/images/wiki-contribute-2.jpg)
 1. From here, you are able to select what branch of you repo should be merged to what branch on Parity Wiki repo  
 ![Merge into branch](/images/wiki-contribute-3.jpg)
-1. The default option will show to merge from your master branch to the Wiki master branch, which is fine.
-1. Double check the modifications you made and click on `Create a Pull Request` when you are sure.
+1. The default option will propose to merge from your master branch to the Parity Wiki's master branch, which is fine.
+1. Double check the modifications you made and click on `Create a Pull Request` when you are sure  
+1. Describe your changes and submit it!
 
 ## CLI, Mining, and Networks
 
