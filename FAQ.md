@@ -339,6 +339,15 @@ Parity light client allows you to set a hardcoded block from which the light cli
 1. Copy the output of the previous command using the field : `"hardcodedSync": { COPY_OUTPUT_HERE }` into your new [chain specifications](https://wiki.parity.io/Chain-specification.html) file.
 1. Run the light client with your new specifications `parity --light --chain /path/to/your/new/specifications`
 
+### How to contribute to this wiki documentation?
+
+1. Visit https://github.com/paritytech/wiki repository and click on `Clone` in the top right hand corner.
+![Fork on github]()
+1. The Wiki will be cloned in your own repo, you will be redirected to https://github.com/your_handle_name/wiki
+1. From here you can edit a page directly by clicking on a file and edit it.
+1. Once you are done editing, commit your changes in your master branch (from your repo)
+1. You will now be able to submit a Pull Request (PR) to the Parity Wiki repo.
+
 ## CLI, Mining, and Networks
 
 ### How do I mine with Parity?
