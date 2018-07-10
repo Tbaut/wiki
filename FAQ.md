@@ -347,6 +347,12 @@ Parity light client allows you to set a hardcoded block from which the light cli
 1. From here you can edit a page directly by clicking on a file and edit it.
 1. Once you are done editing, commit your changes in your master branch (from your repo)
 1. You will now be able to submit a Pull Request (PR) to the Parity Wiki repo.
+1. Click on `Pull Requests` and then on the button `New Pull Request`
+![Pull Request]()
+1. From here, you are able to select what branch of you repo should be merged to what branch on Parity Wiki repo
+![Merge into branch]()
+1. The default option will show to merge from your master branch to the Wiki master branch, which is fine.
+1. Double check the modifications you made and click on `Create a Pull Request` when you are sure.
 
 ## CLI, Mining, and Networks
 
