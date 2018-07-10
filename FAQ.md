@@ -341,6 +341,8 @@ Parity light client allows you to set a hardcoded block from which the light cli
 
 ### How to contribute to this wiki documentation?
 
+This Wiki is open source, anybody can contribute! If you spot an error, a typo, or feel like creating or amending some content, feel free to do so. Here is a quick how-to:
+
 1. Visit https://github.com/paritytech/wiki repository and click on `Clone` in the top right hand corner.  
 ![Fork on github](/images/wiki-contribute-0.jpg)
 1. The Wiki will be cloned in your own repo, you will be redirected to https://github.com/your_handle_name/wiki
